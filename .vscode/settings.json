@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "declarations.h": "c",
+        "chargement.h": "c",
+        "choix.h": "c",
+        "recherche.h": "c",
+        "consultation.h": "c",
+        "affichage.h": "c"
+    }
+}
